@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Olivia picks up a coin with the number 654,321. What is the place value of the digit 6?<br><img width='95%' src='./images/1.jpg'>",
+    "options": [
+      "6 thousands",
+      "6 hundred thousands",
+      "6 hundreds",
+      "6 ten thousands"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Olivia finds another coin with the number 872,543. Which digit is in the ten thousands place?<br><img width='95%' src='./images/1.jpg'>",
+    "options": [
+      "3",
+      "8",
+      "2",
+      "7"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Olivia picks up a coin with the number 345,678. What is the place value of the digit 4?<br><img width='95%' src='./images/1.jpg'>",
+    "options": [
+      "4 thousands",
+      "4 hundred thousands",
+      "4 ten thousands",
+      "4 millions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Olivia finds a coin with the number 1,000,000. How do we write this number in words?<br><img width='95%' src='./images/1.jpg'>",
+    "options": [
+      "One thousand",
+      "One hundred thousand",
+      "One million",
+      "Ten million"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Olivia picks up a coin with the number 59,876. What is the place value of the digit 5?<br><img width='95%' src='./images/1.jpg'>",
+    "options": [
+      "5 ten thousands",
+      "5 hundreds",
+      "5 thousands",
+      "5 hundred thousands"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Olivia finds a coin with the number 789,654. What is the place value of the digit 6?<br><img width='95%' src='./images/1.jpg'>",
+    "options": [
+      "6 ten thousands",
+      "6 tens",
+      "6 thousands",
+      "6 hundreds"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Olivia discovers a coin with the number 432,876. What is the place value of the digit 4?<br><img width='95%' src='./images/1.jpg'>",
+    "options": [
+      "4 millions",
+      "4 thousands",
+      "4 ten thousands",
+      "4 hundred thousands"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Olivia holds a coin with the number 1,234,567. In which place does the digit 4 belong?<br><img width='95%' src='./images/1.jpg'>",
+    "options": [
+      "4 Ones",
+      "4 Thousands",
+      "4 Millions",
+      "4 Ten thousands"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Olivia finds a coin with the number 2,345,678. What is the value of the digit 2?<br><img width='95%' src='./images/1.jpg'>",
+    "options": [
+      "2 thousands",
+      "2 ten thousands",
+      "2 hundred thousands",
+      "2 millions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Olivia picks up a coin with the number 1,567,890. What is the place value of the digit 5?<br><img width='95%' src='./images/1.jpg'>",
+    "options": [
+      "5 thousands",
+      "5 hundred thousands",
+      "5 ten thousands",
+      "5 millions"
+    ],
+    "correct": 1
+  }
+]
